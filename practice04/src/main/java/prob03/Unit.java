@@ -1,6 +1,6 @@
 package prob03;
 
-public abstract class Unit {
+public class Unit {
 	protected int x;
 	protected int y;
 	
